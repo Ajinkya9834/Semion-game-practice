@@ -68,6 +68,6 @@
 
 ## Author
 
-- Frontend Mentor (to see author challenges) - (https://www.frontendmentor.io/profile/Ajinkya9834)
+- Frontend Mentor (to see other challenges) - (https://www.frontendmentor.io/profile/Ajinkya9834)
 - My LinkedIn Profile - (www.linkedin.com/in/ajinkya-hajare)
 
